@@ -5,6 +5,8 @@ def my_sqaure(y):
 	return(y ** 2)
 
 def my_square2(x):
+	"""Users the * operator to calculate sqaure
+	"""
 	return(x * x)
 
 print(my_sqaure(10))
