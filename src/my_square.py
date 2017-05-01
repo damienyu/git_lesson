@@ -1,7 +1,7 @@
-def my_sqaure(x):
+def my_sqaure(y):
 	""" This is a commit
 	"""
-	return(x ** 2)
+	return(y ** 2)
 
-print(my_sqaure(4))
+print(my_sqaure(10))
 
